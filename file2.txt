@@ -1,1 +1,5 @@
 also file for git repo.
+
+add content for merge precess.
+
+2025 footer note.
